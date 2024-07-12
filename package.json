@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "node": "^18.20.4",
+    "nodemon": "^3.1.4",
+    "postman-code-generators": "^1.11.0",
+    "react": "^18.3.1"
+  },
+  "name": "2115500070",
+  "version": "1.0.0",
+  "description": "assessment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2115500070",
+  "license": "ISC"
+}
